@@ -48,6 +48,10 @@ This project demonstrates practical software development skills, including:
 - Console application development
 - Java programming
 
+## Why This Project?
+
+I enjoy developing software that addresses practical, real-world challenges. This project focuses on improving the organization and efficiency of library management by applying object-oriented programming principles to a familiar everyday scenario.
+
 ## Features
 
 ### Librarian
