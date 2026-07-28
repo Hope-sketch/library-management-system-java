@@ -40,7 +40,7 @@ The application allows librarians to manage books while members can browse and b
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Java
 - Apache NetBeans IDE
