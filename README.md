@@ -1,10 +1,10 @@
 #  Library Management System
 
-A Java console-based Library Management System developed using Object-Oriented Programming principles. The application provides separate functionality for librarians and members, allowing users to manage library resources through an interactive command-line interface.
+A Java-based library management application designed to simplify common library operations such as managing books, tracking availability, and supporting interactions between librarians and members.
 
-> **Note:** This project was originally developed as part of my Higher Certificate in Information Systems coursework and has been refined for my professional portfolio.
+This project demonstrates how software can be used to solve everyday administrative challenges by replacing manual record-keeping with a structured, object-oriented system.
 
----
+> **Portfolio Note:** This project was originally developed as part of my Higher Certificate in Information Systems coursework and has since been refined as part of my professional portfolio.
 
 ##  Overview
 
@@ -13,8 +13,42 @@ The Library Management System is designed to simulate the core operations of a l
 The application allows librarians to manage books while members can browse and borrow available books. The project demonstrates the use of Java classes, inheritance, exception handling, collections, and Object-Oriented Programming concepts.
 
 ---
+## The Problem
 
-##  Features
+Small libraries that rely on manual record-keeping can face challenges such as:
+
+- Difficulty tracking available books
+- Time-consuming borrowing and return processes
+- Human error when maintaining records
+- Limited organization of library resources
+
+These issues can make it harder for librarians to manage collections efficiently and provide a good experience for members.
+
+## The Solution
+
+This application provides a simple, menu-driven system that enables librarians and members to perform common library tasks through a structured console interface.
+
+Key capabilities include:
+
+- Managing library books
+- Viewing available books
+- Borrowing books
+- Returning books
+- Separating librarian and member functionality
+- Preventing invalid operations through exception handling
+
+## Skills Demonstrated
+
+This project demonstrates practical software development skills, including:
+
+- Object-Oriented Programming (OOP)
+- Class design and code organization
+- Custom exception handling
+- Problem decomposition
+- Console application development
+- Java programming
+
+## Features
 
 ### Librarian
 
